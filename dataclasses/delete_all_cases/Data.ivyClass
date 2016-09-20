@@ -1,0 +1,8 @@
+Data #class
+delete_all_cases #namespace
+username String #field
+username PERSISTENT #fieldModifier
+password String #field
+password PERSISTENT #fieldModifier
+exceptionMessage String #field
+exceptionMessage PERSISTENT #fieldModifier
