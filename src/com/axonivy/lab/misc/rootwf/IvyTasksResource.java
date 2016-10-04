@@ -1,4 +1,4 @@
-package com.axonivy.luz.tools;
+package com.axonivy.lab.misc.rootwf;
 
 import java.text.MessageFormat;
 import java.util.Optional;

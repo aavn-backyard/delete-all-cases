@@ -1,4 +1,4 @@
-package com.axonivy.luz.tools;
+package com.axonivy.lab.misc.rootwf;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.Inherited;
